@@ -1,17 +1,11 @@
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
+  <img src="assets/cover.png" width="300" alt="Capa do podcast">
 </p>
-
 <p align="center">
-    Preview do podcast
+  <audio controls>
+    <source src="https://github.com/gisely-lavigne-lab/prompts-for-podcast-generate-by-ia/raw/main/outputs/podcast_editado.MP3" type="audio/mpeg">
+  </audio>
 </p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
