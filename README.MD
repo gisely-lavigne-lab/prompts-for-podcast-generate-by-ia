@@ -1,15 +1,14 @@
+<h2 align="center">🎧 Ouça o podcast</h2>
+
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
+  <a href="https://soundcloud.com/gisely-lavigne/clonecast-prompts-e-poder-o" target="_blank">
+    <img src="assets/cover.png" alt="Clique para ouvir o podcast" width="300">
+  </a>
 </p>
 
-<h2>🎙 Ouça o podcast</h2>
-<audio controls>
-  <source src="https://github.com/gisely-lavigne-lab/prompts-for-podcast-generate-by-ia/raw/main/outputs/podcast_editado.MP3" type="audio/mpeg">
-  Seu navegador não suporta o player de áudio.
-</audio>
+<p align="center">
+  👉 <strong>Clique na imagem acima para ouvir o episódio no SoundCloud</strong>
+</p>
 
 
 # Projeto Podcast Gerado por I.A.s
